@@ -1,0 +1,5 @@
+model_list:
+  - model_name: codemind-ai
+    litellm_params:
+      model: ollama/qwen2.5-coder:32b
+      api_base: http://localhost:11434
